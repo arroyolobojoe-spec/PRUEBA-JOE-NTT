@@ -1,0 +1,744 @@
+{
+  "countries": [
+    {
+      "country": "Angola",
+      "coffee_type": "Mixto",
+      "total_historico": 46500000,
+      "cagr": 0.0141,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Bolivia (Plurinational State of)",
+      "coffee_type": "Arabica",
+      "total_historico": 75180000,
+      "cagr": 0.0312,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Brazil",
+      "coffee_type": "Mixto",
+      "total_historico": 27824700000,
+      "cagr": 0.0346,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Burundi",
+      "coffee_type": "Mixto",
+      "total_historico": 3412020,
+      "cagr": 0.0,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Ecuador",
+      "coffee_type": "Mixto",
+      "total_historico": 381540000,
+      "cagr": -0.029,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Indonesia",
+      "coffee_type": "Mixto",
+      "total_historico": 4920480000,
+      "cagr": 0.0478,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Madagascar",
+      "coffee_type": "Robusta",
+      "total_historico": 588705960,
+      "cagr": 0.0024,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Malawi",
+      "coffee_type": "Arabica",
+      "total_historico": 2340000,
+      "cagr": -0.0236,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Papua New Guinea",
+      "coffee_type": "Mixto",
+      "total_historico": 3608400,
+      "cagr": -0.0139,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Paraguay",
+      "coffee_type": "Arabica",
+      "total_historico": 35100000,
+      "cagr": 0.01,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Peru",
+      "coffee_type": "Arabica",
+      "total_historico": 402000000,
+      "cagr": 0.0095,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Rwanda",
+      "coffee_type": "Arabica",
+      "total_historico": 2139960,
+      "cagr": 0.0,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Timor-Leste",
+      "coffee_type": "Arabica",
+      "total_historico": 294000,
+      "cagr": 0.0,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Zimbabwe",
+      "coffee_type": "Arabica",
+      "total_historico": 8595960,
+      "cagr": -0.0236,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Congo",
+      "coffee_type": "Robusta",
+      "total_historico": 5360040,
+      "cagr": 0.0,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Cuba",
+      "coffee_type": "Arabica",
+      "total_historico": 384006000,
+      "cagr": 0.0005,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Dominican Republic",
+      "coffee_type": "Mixto",
+      "total_historico": 642823380,
+      "cagr": 0.0057,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Haiti",
+      "coffee_type": "Arabica",
+      "total_historico": 600600000,
+      "cagr": 0.0156,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Philippines",
+      "coffee_type": "Mixto",
+      "total_historico": 2807280000,
+      "cagr": 0.0533,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Tanzania",
+      "coffee_type": "Mixto",
+      "total_historico": 76425060,
+      "cagr": 0.1154,
+      "consumption_status": "activo",
+      "cluster": 0
+    },
+    {
+      "country": "Zambia",
+      "coffee_type": "Arabica",
+      "total_historico": 991920,
+      "cagr": null,
+      "consumption_status": "interrumpido",
+      "cluster": null
+    },
+    {
+      "country": "Cameroon",
+      "coffee_type": "Mixto",
+      "total_historico": 143450940,
+      "cagr": -0.0027,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Central African Republic",
+      "coffee_type": "Robusta",
+      "total_historico": 24794400,
+      "cagr": -0.0115,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Colombia",
+      "coffee_type": "Arabica",
+      "total_historico": 2536776384,
+      "cagr": 0.0172,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Costa Rica",
+      "coffee_type": "Arabica",
+      "total_historico": 665335200,
+      "cagr": -0.0022,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "coffee_type": "Robusta",
+      "total_historico": 410260140,
+      "cagr": 0.0658,
+      "consumption_status": "activo",
+      "cluster": 0
+    },
+    {
+      "country": "Democratic Republic of Congo",
+      "coffee_type": "Mixto",
+      "total_historico": 359880000,
+      "cagr": -0.0003,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "El Salvador",
+      "coffee_type": "Arabica",
+      "total_historico": 417242040,
+      "cagr": 0.0168,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Equatorial Guinea",
+      "coffee_type": "Robusta",
+      "total_historico": 0,
+      "cagr": null,
+      "consumption_status": "sin_datos",
+      "cluster": null
+    },
+    {
+      "country": "Ethiopia",
+      "coffee_type": "Arabica",
+      "total_historico": 4536540000,
+      "cagr": 0.0404,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Gabon",
+      "coffee_type": "Robusta",
+      "total_historico": 1123140,
+      "cagr": -0.0413,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Ghana",
+      "coffee_type": "Robusta",
+      "total_historico": 9970800,
+      "cagr": -0.0711,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Guatemala",
+      "coffee_type": "Mixto",
+      "total_historico": 590880000,
+      "cagr": 0.0094,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Guinea",
+      "coffee_type": "Robusta",
+      "total_historico": 86730000,
+      "cagr": 0.0242,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Guyana",
+      "coffee_type": "Robusta",
+      "total_historico": 9203040,
+      "cagr": 0.0297,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Honduras",
+      "coffee_type": "Arabica",
+      "total_historico": 471850680,
+      "cagr": 0.0216,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "India",
+      "coffee_type": "Mixto",
+      "total_historico": 2093460000,
+      "cagr": 0.0165,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Jamaica",
+      "coffee_type": "Arabica",
+      "total_historico": 18688020,
+      "cagr": 0.0087,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Kenya",
+      "coffee_type": "Arabica",
+      "total_historico": 95190000,
+      "cagr": 0.0124,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Lao People's Democratic Republic",
+      "coffee_type": "Robusta",
+      "total_historico": 157980000,
+      "cagr": -0.0004,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Liberia",
+      "coffee_type": "Robusta",
+      "total_historico": 8640000,
+      "cagr": 0.0178,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Mexico",
+      "coffee_type": "Mixto",
+      "total_historico": 3189660000,
+      "cagr": 0.0198,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Nepal",
+      "coffee_type": "Arabica",
+      "total_historico": 0,
+      "cagr": null,
+      "consumption_status": "sin_datos",
+      "cluster": null
+    },
+    {
+      "country": "Nicaragua",
+      "coffee_type": "Arabica",
+      "total_historico": 299700300,
+      "cagr": 0.0648,
+      "consumption_status": "activo",
+      "cluster": 0
+    },
+    {
+      "country": "Nigeria",
+      "coffee_type": "Robusta",
+      "total_historico": 70740000,
+      "cagr": 0.013,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Panama",
+      "coffee_type": "Arabica",
+      "total_historico": 122916960,
+      "cagr": 0.0021,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Sierra Leone",
+      "coffee_type": "Robusta",
+      "total_historico": 10080000,
+      "cagr": -0.0201,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Sri Lanka",
+      "coffee_type": "Mixto",
+      "total_historico": 58300020,
+      "cagr": -0.022,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Thailand",
+      "coffee_type": "Mixto",
+      "total_historico": 1248600000,
+      "cagr": 0.0717,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Togo",
+      "coffee_type": "Robusta",
+      "total_historico": 2167620,
+      "cagr": -0.0454,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Trinidad & Tobago",
+      "coffee_type": "Robusta",
+      "total_historico": 21090000,
+      "cagr": 0.0077,
+      "consumption_status": "activo",
+      "cluster": 2
+    },
+    {
+      "country": "Uganda",
+      "coffee_type": "Mixto",
+      "total_historico": 284816400,
+      "cagr": 0.0454,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Venezuela",
+      "coffee_type": "Arabica",
+      "total_historico": 2386067999,
+      "cagr": 0.017,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Viet Nam",
+      "coffee_type": "Mixto",
+      "total_historico": 1920928320,
+      "cagr": 0.1041,
+      "consumption_status": "activo",
+      "cluster": 1
+    },
+    {
+      "country": "Yemen",
+      "coffee_type": "Arabica",
+      "total_historico": 121620000,
+      "cagr": -0.0502,
+      "consumption_status": "activo",
+      "cluster": 2
+    }
+  ],
+  "clusters": {
+    "0": {
+      "n_paises": 3,
+      "cagr_promedio_pct": 8.2,
+      "volatilidad_promedio_pct": 80.85,
+      "paises": "Côte d'Ivoire, Nicaragua, Tanzania"
+    },
+    "1": {
+      "n_paises": 30,
+      "cagr_promedio_pct": 2.03,
+      "volatilidad_promedio_pct": 7.92,
+      "paises": "Bolivia (Plurinational State of), Brazil, Cameroon, Colombia, Costa Rica, Cuba, Democratic Republic of Congo, Dominican Republic, Ecuador, El Salvador, Ethiopia, Guatemala, Guinea, Haiti, Honduras, India, Indonesia, Kenya, Lao People's Democratic Republic, Madagascar, Mexico, Nigeria, Panama, Paraguay, Peru, Philippines, Thailand, Uganda, Venezuela, Viet Nam"
+    },
+    "2": {
+      "n_paises": 19,
+      "cagr_promedio_pct": -1.29,
+      "volatilidad_promedio_pct": 21.66,
+      "paises": "Angola, Burundi, Central African Republic, Congo, Gabon, Ghana, Guyana, Jamaica, Liberia, Malawi, Papua New Guinea, Rwanda, Sierra Leone, Sri Lanka, Timor-Leste, Togo, Trinidad & Tobago, Yemen, Zimbabwe"
+    }
+  },
+  "forecast": {
+    "global": {
+      "metodo": "holt",
+      "mape_backtest_pct": 1.48,
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        3008098169.0,
+        3016977278.0,
+        3025540427.0,
+        3033798859.0,
+        3041763417.0
+      ],
+      "banda_80_inferior": [
+        2953376686.0,
+        2962255795.0,
+        2970818944.0,
+        2979077376.0,
+        2987041934.0
+      ],
+      "banda_80_superior": [
+        3062819652.0,
+        3071698761.0,
+        3080261910.0,
+        3088520342.0,
+        3096484900.0
+      ]
+    },
+    "arabica": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        564800787.0,
+        564832199.0,
+        564862406.0,
+        564891453.0,
+        564919387.0
+      ]
+    },
+    "mixto": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        2382870030.0,
+        2389808357.0,
+        2396411949.0,
+        2402696957.0,
+        2408678750.0
+      ]
+    },
+    "robusta": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        59931331.0,
+        60188953.0,
+        60395050.0,
+        60559927.0,
+        60691829.0
+      ]
+    },
+    "brazil": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        1345612179.0,
+        1371060869.0,
+        1396347114.0,
+        1421471950.0,
+        1446436409.0
+      ]
+    },
+    "indonesia": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        293905403.0,
+        299300915.0,
+        304550587.0,
+        309658363.0,
+        314628076.0
+      ]
+    },
+    "ethiopia": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        231778489.0,
+        236626830.0,
+        241406024.0,
+        246117058.0,
+        250760903.0
+      ]
+    },
+    "mexico": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        146069898.0,
+        146571969.0,
+        147014286.0,
+        147403961.0,
+        147747259.0
+      ]
+    },
+    "philippines": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        200596099.0,
+        204005193.0,
+        207204055.0,
+        210205650.0,
+        213022143.0
+      ]
+    },
+    "colombia": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        126376548.0,
+        131623649.0,
+        136844513.0,
+        142039274.0,
+        147208060.0
+      ]
+    },
+    "venezuela": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        61859035.0,
+        46684678.0,
+        31586193.0,
+        16563200.0,
+        1615323.0
+      ]
+    },
+    "india": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        87242397.0,
+        86931365.0,
+        86674457.0,
+        86462253.0,
+        86286976.0
+      ]
+    },
+    "viet nam": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        164104568.0,
+        169110698.0,
+        174020289.0,
+        178835201.0,
+        183557261.0
+      ]
+    },
+    "thailand": {
+      "metodo": "holt",
+      "seasons": [
+        "2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24",
+        "2024/25"
+      ],
+      "valores": [
+        86054689.0,
+        88090191.0,
+        90111164.0,
+        92117712.0,
+        94109939.0
+      ]
+    }
+  },
+  "price_index": {
+    "aviso": "Indice ilustrativo simulado (oscilador de presion), NO son precios de mercado reales.",
+    "neutral": "100 = presion neutral (crecimiento de consumo igual al promedio historico 1990/91-2019/20)",
+    "k_sensibilidad": 3.0,
+    "valor_2019_20": 88.9,
+    "proyeccion_seasons": [
+      "2020/21",
+      "2021/22",
+      "2022/23",
+      "2023/24",
+      "2024/25"
+    ],
+    "proyeccion_valores": [
+      91.4,
+      93.1,
+      90.5,
+      90.4,
+      90.0
+    ]
+  },
+  "excluidos_clustering": [
+    "Zambia",
+    "Equatorial Guinea",
+    "Nepal"
+  ]
+}
